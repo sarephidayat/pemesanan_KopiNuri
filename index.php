@@ -180,7 +180,7 @@
 
     <header>
         <div class="container">
-            <div class="logo">Kafe Ngelak</div>
+            <div class="logo">Kafe Nuri</div>
         </div>
     </header>
 
